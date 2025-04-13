@@ -24,37 +24,37 @@ Answered real-world business questions like:
 - Is there a correlation between customer attributes and financial behaviors?<br>
 
 ## 🧠 Analytical Techniques Used
-Univariate and Bivariate Analysis<br>
-Outlier Detection & Treatment<br>
-Normality Check (Shapiro-Wilk, QQ plots)<br>
-T-tests (one sample, two-sample, paired)<br>
-Chi-square Test for Independence<br>
-ANOVA (Analysis of Variance)<br>
-Z-test for proportions<br>
-Confidence Interval Estimation<br>
-Skewness and Kurtosis checks<br>
-Correlation Heatmaps<br>
+Univariate and Bivariate Analysis. <br>
+Outlier Detection & Treatment.<br>
+Normality Check (Shapiro-Wilk, QQ plots).<br>
+T-tests (one sample, two-sample, paired).<br>
+Chi-square Test for Independence.<br>
+ANOVA (Analysis of Variance).<br>
+Z-test for proportions.<br>
+Confidence Interval Estimation.<br>
+Skewness and Kurtosis checks.<br>
+Correlation Heatmaps.<br>
 
 ## 📊 Visualizations Created
-Distribution plots of transaction values<br>
-Gender-wise comparison of banking behaviors<br>
-Boxplots for segment-wise income and balance<br>
-Bar charts showing categorical frequency and cross-tabulations<br>
-Correlation heatmaps for numeric variable dependencies<br>
+Distribution plots of transaction values.<br>
+Gender-wise comparison of banking behaviors.<br>
+Boxplots for segment-wise income and balance.<br>
+Bar charts showing categorical frequency and cross-tabulations.<br>
+Correlation heatmaps for numeric variable dependencies.<br>
 
 ## 📁 Dataset Details
 Simulated banking data covering:<br>
-- Customer ID, Age, Gender<br>
-- Region, Occupation, Income<br>
-- Current Account Balance, Number of Products<br>
-- Transaction Type and Amount <br>
+- Customer ID, Age, Gender.<br>
+- Region, Occupation, Income.<br>
+- Current Account Balance, Number of Products.<br>
+- Transaction Type and Amount. <br>
 - Segment Classification (Retail, Corporate, etc.) <br>
 
 ## Business Insights Generated
-Identified high-value customer segments<br>
-Gender and age groups with higher transaction frequency<br>
-Regions with stronger revenue contribution<br>
-Statistically validated differences in behaviors across key demographic groups<br>
-Business hypotheses tested with statistical rigor<br>
+Identified high-value customer segments.<br>
+Gender and age groups with higher transaction frequency.<br>
+Regions with stronger revenue contribution.<br>
+Statistically validated differences in behaviors across key demographic groups.<br>
+Business hypotheses tested with statistical rigor.<br>
 
 
