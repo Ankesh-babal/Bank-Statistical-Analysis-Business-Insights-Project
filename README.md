@@ -5,11 +5,11 @@ AtliQo Bank is striving to become more data-driven in its decision-making and cu
 
 ## 🛠️ Tech Stack
 Python
-Pandas, NumPy, Matplotlib, Seaborn
-SciPy, Statsmodels
-Jupyter Notebook
-Data Visualization
-Statistical Inference
+Pandas, NumPy, Matplotlib, Seaborn.
+SciPy, Statsmodels.
+Jupyter Notebook.
+Data Visualization.
+Statistical Inference.
 
 ## 📈 Key Highlights of the Project
 Comprehensive Exploratory Data Analysis (EDA)
