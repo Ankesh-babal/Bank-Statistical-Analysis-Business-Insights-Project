@@ -1,7 +1,7 @@
 # Bank-Statistical-Analysis-Business-Insights-Project
 
 ## 🔍 Project Overview
-AtliQo Bank is striving to become more data-driven in its decision-making and customer strategy. This project focuses on statistical analysis and business insights generation using Python to evaluate customer behavior, transaction patterns, and financial metrics. The goal is to derive actionable insights from the data using statistical techniques, EDA, and hypothesis testing to support strategic decisions.
+Bank is striving to become more data-driven in its decision-making and customer strategy. This project focuses on statistical analysis and business insights generation using Python to evaluate customer behavior, transaction patterns, and financial metrics. The goal is to derive actionable insights from the data using statistical techniques, EDA, and hypothesis testing to support strategic decisions.
 
 ## 🛠️ Tech Stack
 Python <br>
