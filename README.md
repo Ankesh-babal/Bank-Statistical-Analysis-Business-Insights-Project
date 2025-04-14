@@ -58,3 +58,8 @@ Statistically validated differences in behaviors across key demographic groups.<
 Business hypotheses tested with statistical rigor.<br>
 
 
+  ![image](https://github.com/user-attachments/assets/e2c03729-215e-4e21-abc1-c4d0626525d2)
+![image](https://github.com/user-attachments/assets/1cfb1eba-ebe5-412c-9db3-5e0823638be8)
+![image](https://github.com/user-attachments/assets/cde381c3-5f35-43bc-b33d-eb92fc92416d)
+![image](https://github.com/user-attachments/assets/53720fb4-5b54-4532-8c5b-cb5269783081)
+
